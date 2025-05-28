@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+*{
+
+  box-sizing: border-box;
+
+}
+
+.img{
+  background: radial-gradient(purple, rgb(60, 0, 95) 90% );
+  background-color: ba;
+  position: relative;
+  z-index: 0;
+}
+
+::-webkit-scrollbar{
+   width: 0;
+}
+
+
